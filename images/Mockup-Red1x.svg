@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="543" height="348" viewBox="0 0 543 348">
+  <defs>
+    <rect id="mockup-red@1x-b" width="495" height="300"/>
+    <filter id="mockup-red@1x-a" width="119%" height="131.3%" x="-9.5%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="22" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="12"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.133333333   0 0 0 0 0.156862745   0 0 0 0 0.192156863  0 0 0 0.1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(24 2)">
+    <use fill="#000" filter="url(#mockup-red@1x-a)" xlink:href="#mockup-red@1x-b"/>
+    <use fill="#FFF" xlink:href="#mockup-red@1x-b"/>
+    <rect width="408.438" height="52.101" x="42.861" y="220.168" fill="#FF6768" fill-opacity=".1"/>
+    <ellipse cx="10.505" cy="8.824" fill="#FF6768" rx="2.101" ry="2.101"/>
+    <ellipse cx="18.909" cy="8.824" fill="#FF6768" rx="2.101" ry="2.101"/>
+    <ellipse cx="26.473" cy="8.824" fill="#FF6768" rx="2.101" ry="2.101"/>
+    <g fill="#FF6768" fill-opacity=".1" transform="translate(42.86 36.134)">
+      <rect width="89.586" height="26.891"/>
+      <rect width="89.586" height="26.891" x="106.564"/>
+      <rect width="89.586" height="26.891" x="213.128"/>
+      <rect width="89.586" height="26.891" x="319.692"/>
+    </g>
+    <rect width="196.655" height="131.933" x="42.861" y="74.79" fill="#FF6768" fill-opacity=".1"/>
+    <rect width="41.18" height="3.361" x="54.626" y="85.714" fill="#FF6768"/>
+    <rect width="127.742" height="3.361" x="42.861" y="20.168" fill="#FF6768"/>
+    <rect width="127.742" height="3.361" x="57.988" y="231.933" fill="#FF6768"/>
+    <rect width="66.392" height="3.361" x="57.988" y="245.378" fill="#FF6768"/>
+    <rect width="22.691" height="3.361" x="54.626" y="92.437" fill="#FF6768"/>
+    <rect width="22.691" height="3.361" x="429.448" y="16.807" fill="#FF6768"/>
+    <g fill="#FF6768" transform="translate(402.555 74.79)">
+      <rect width="19.182" height="3.361" x="30.402"/>
+      <rect width="19.182" height="3.361"/>
+    </g>
+    <polyline stroke="#FF6768" stroke-width="2" points="54.626 194.118 88.922 175.402 121.793 179.389 167.539 155.607 194.894 157.491 227.75 107.563"/>
+    <rect width="17.649" height="68.908" x="259.686" y="137.815" fill="#FF6768"/>
+    <rect width="17.649" height="68.908" x="375.662" y="137.815" fill="#FF6768"/>
+    <rect width="17.649" height="68.908" x="317.674" y="137.815" fill="#FF6768"/>
+    <rect width="17.649" height="68.908" x="404.236" y="137.815" fill="#FF6768"/>
+    <rect width="17.649" height="97.479" x="288.26" y="109.244" fill="#FF6768"/>
+    <rect width="17.649" height="97.479" x="346.248" y="109.244" fill="#FF6768"/>
+    <rect width="17.649" height="97.479" x="432.81" y="109.244" fill="#FF6768"/>
+  </g>
+</svg>
